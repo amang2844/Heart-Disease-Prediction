@@ -3,6 +3,8 @@
 This project predicts the likelihood of heart disease using multiple machine learning models and a simple, interactive Streamlit web app.
 The goal is to help users understand risk levels using medical parameters like age, cholesterol, resting BP, maximum heart rate, and more.
 
+LIVE Project Link:- https://heart-disease-prediction-quupfp7kxdeptvcckpse8j.streamlit.app/
+
 🚀 Project Highlights
 
 Complete ML workflow in Jupyter Notebook
